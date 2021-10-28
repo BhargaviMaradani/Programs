@@ -1,0 +1,15 @@
+Create a employee object with following fields.
+1. Emp I'd - long
+2. Emp first name _ string
+3. Last name- string
+3. Age-int
+4. Salary_ling
+5. Address - string
+6. List of skills - list of string
+
+ Create list of employee objects 
+1. Filter out employees based on skill
+2. Convert employee list into employee map
+
+
+
