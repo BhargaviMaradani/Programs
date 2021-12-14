@@ -1,0 +1,4 @@
+Consider two  array list of objects
+Here objects indicate "Fruit" with features color and price(mixed order).
+Each array should have 3 objects.
+Result expected : Create a single array with price arranged in ascending order(combination of two declared arrays)
